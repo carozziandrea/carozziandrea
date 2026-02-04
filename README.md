@@ -1,7 +1,9 @@
 # Andrea Carozzi
 
-## 🎓 CS Graduate @ Università degli Studi di Milano (Milan, Italy) | Junior Software Engineer
-*Recent Computer Science graduate from Università degli Studi di Milano, passionate about building backend or data driven solutions.*
+## Junior Software Engineer | CS Graduate 🎓
+### Università degli Studi di Milano (Milan, Italy)
+
+*Recent Computer Science graduate from **UNIMI**, passionate about building backend or data-driven solutions.*
 
 ---
 
