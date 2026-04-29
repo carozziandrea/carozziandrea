@@ -19,6 +19,7 @@
 * **[DeepReach-PA](https://github.com/carozziandrea/DeepReach-PA)**: *Bachelor's Thesis* – A Python-based analysis of Italian Public Administration websites, evaluating them through the lenses of privacy compliance and web accessibility. Built with a complex combination of web crawlers and scrapers.
 * **[ESP32 Battery Collection Box](https://github.com/carozziandrea/ESP32-Battery-Collection-Box)**: An IoT solution for a real-world problem, showcasing **Embedded Systems** integration and hardware-software communication.
 * **[UrbanReach](https://github.com/carozziandrea/UrbanReach)**: A high-performance spatial **FastAPI** Web API designed to evaluate the "15-Minute City" model by integrating external **geospatial APIs** to simulate realistic pedestrian accessibility through graph-based pathfinding.
+* **[ChessPassport](https://github.com/carozziandrea/ChessPassport)**: A sleek **Flask** web app that dynamically scrapes and visualizes a Chess.com user's collected Passport awards on an interactive world map.
 * **Advent of Code Collection**: My yearly journey through algorithmic challenges.
   **[2020](https://github.com/carozziandrea/AdventOfCode2020)** • **[2021](https://github.com/carozziandrea/AdventOfCode2021)** • **[2022](https://github.com/carozziandrea/AdventOfCode2022)** • **[2023](https://github.com/carozziandrea/AdventOfCode2023)** • **[2024](https://github.com/carozziandrea/AdventOfCode2024)** • **[2025](https://github.com/carozziandrea/AdventOfCode2025)**
 
