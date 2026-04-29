@@ -3,7 +3,7 @@
 ## Junior Software Engineer | CS Graduate 
 ### 🎓 Università degli Studi di Milano (UNIMI)
 
-*Recent Computer Science graduate with a strong focus on **Backend development** and **Algorithm design**. I enjoy transforming complex data into accessible and efficient software solutions.*
+*Recent Computer Science graduate with a focus on Backend development. I am passionate about developing software that solves real-world challenges.*
 
 ---
 
@@ -16,9 +16,8 @@
 ---
 
 ### 📂 Featured Projects
-* **[PA-Web-Privacy-Analysis](https://github.com/carozziandrea/LINK-TESI)**: *Bachelor's Thesis* – A Python-based analysis of Italian Public Administration websites, evaluating them through the lenses of privacy compliance and web accessibility.
+* **[DeepReach-PA](https://github.com/carozziandrea/DeepReach-PA)**: *Bachelor's Thesis* – A Python-based analysis of Italian Public Administration websites, evaluating them through the lenses of privacy compliance and web accessibility.
 * **[ESP32 Battery Collection Box](https://github.com/carozziandrea/ESP32-Battery-Collection-Box)**: An IoT solution for a real-world problem, showcasing **Embedded Systems** integration and hardware-software communication.
-* **[Football-CLI](https://github.com/carozziandrea/Football-CLI)**: A lightweight CLI tool for football fans to track live scores, standings, and fixtures across top European leagues.
 * **Advent of Code Collection**: My yearly journey through algorithmic challenges.
   **[2020](https://github.com/carozziandrea/AdventOfCode2020)** • **[2021](https://github.com/carozziandrea/AdventOfCode2021)** • **[2022](https://github.com/carozziandrea/AdventOfCode2022)** • **[2023](https://github.com/carozziandrea/AdventOfCode2023)** • **[2024](https://github.com/carozziandrea/AdventOfCode2024)** • **[2025](https://github.com/carozziandrea/AdventOfCode2025)**
 
