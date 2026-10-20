@@ -17,9 +17,6 @@
 ### 📂 Featured Projects
 * **[DeepReach-PA](https://github.com/carozziandrea/DeepReach-PA)**: *Bachelor's thesis* analyzing Italian public administration websites for privacy compliance and web accessibility, using *Python* crawlers and scrapers.
 * **[SoccerAI](https://github.com/carozziandrea/SoccerAI)**: A local AI assistant for Serie A goal statistics. It uses *Llama 3* through *Ollama* to turn natural-language questions into read-only *SQLite* queries, with deterministic templates and an evaluation suite.
-
-  ![SoccerAI interface answering a natural-language question about Kenan Yildiz's goals](assets/soccerai.png)
-
 * **[LetterboxdAnalyzer](https://github.com/carozziandrea/LetterboxdAnalyzer)**: A *Spring Boot* web application that turns a Letterboxd export into a personal film report with interactive yearly heatmaps, narrative insights, and optional *TMDB API* metadata enrichment with persistent local caching.
 * **[ESP32 Battery Collection Box](https://github.com/carozziandrea/ESP32-Battery-Collection-Box)**: An IoT battery collection solution built around *ESP32*, integrating embedded hardware and software to address a real-world problem.
 * **[UrbanReach](https://github.com/carozziandrea/UrbanReach)**: A spatial *FastAPI* web API that evaluates the "15-Minute City" model by combining geospatial APIs and graph-based pathfinding to estimate pedestrian accessibility.
