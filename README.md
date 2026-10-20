@@ -10,19 +10,19 @@
 ### 🛠️ Tech Stack & Tools
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Claude Code](https://img.shields.io/badge/-ClaudeCode-D97757?logo=claude&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white) |
 
 ---
 
 ### 📂 Featured Projects
-* **[DeepReach-PA](https://github.com/carozziandrea/DeepReach-PA)**: *Bachelor's Thesis* – A Python-based analysis of Italian Public Administration websites, evaluating them through the lenses of privacy compliance and web accessibility. Built with a complex combination of web crawlers and scrapers.
-* **[LetterboxdAnalyzer](https://github.com/carozziandrea/LetterboxdAnalyzer)**: A Spring Boot web application that turns a real Letterboxd export into a personal film report, combining diary-led analytics, interactive yearly heatmaps, narrative insights, and optional TMDB metadata enrichment with persistent local caching. 
-* **[ESP32 Battery Collection Box](https://github.com/carozziandrea/ESP32-Battery-Collection-Box)**: An IoT solution for a real-world problem, showcasing **Embedded Systems** integration and hardware-software communication.
-* **[UrbanReach](https://github.com/carozziandrea/UrbanReach)**: A high-performance spatial **FastAPI** Web API designed to evaluate the "15-Minute City" model by integrating external **geospatial APIs** to simulate realistic pedestrian accessibility through graph-based pathfinding.
-* **[ChessPassport](https://github.com/carozziandrea/ChessPassport)**: A sleek **Flask** web app that dynamically scrapes and visualizes a Chess.com user's collected Passport awards on an interactive world map.
+* **[DeepReach-PA](https://github.com/carozziandrea/DeepReach-PA)**: *Bachelor's thesis* analyzing Italian public administration websites for privacy compliance and web accessibility, using *Python* crawlers and scrapers.
+* **[SoccerAI](https://github.com/carozziandrea/SoccerAI)**: A local AI assistant for Serie A goal statistics. It uses *Llama 3* through *Ollama* to turn natural-language questions into read-only *SQLite* queries, with deterministic templates and an evaluation suite.
+* **[LetterboxdAnalyzer](https://github.com/carozziandrea/LetterboxdAnalyzer)**: A *Spring Boot* web application that turns a Letterboxd export into a personal film report with interactive yearly heatmaps, narrative insights, and optional *TMDB API* metadata enrichment with persistent local caching.
+* **[ESP32 Battery Collection Box](https://github.com/carozziandrea/ESP32-Battery-Collection-Box)**: An IoT battery collection solution built around *ESP32*, integrating embedded hardware and software to address a real-world problem.
+* **[UrbanReach](https://github.com/carozziandrea/UrbanReach)**: A spatial *FastAPI* web API that evaluates the "15-Minute City" model by combining geospatial APIs and graph-based pathfinding to estimate pedestrian accessibility.
+* **[ChessPassport](https://github.com/carozziandrea/ChessPassport)**: A *Flask* web app that scrapes and visualizes a Chess.com user's Passport awards on an interactive world map.
 * **Advent of Code Collection**: My yearly journey through algorithmic challenges.
-  **[2020](https://github.com/carozziandrea/AdventOfCode2020)** • **[2021](https://github.com/carozziandrea/AdventOfCode2021)** • **[2022](https://github.com/carozziandrea/AdventOfCode2022)** • **[2023](https://github.com/carozziandrea/AdventOfCode2023)** • **[2024](https://github.com/carozziandrea/AdventOfCode2024)** • **[2025](https://github.com/carozziandrea/AdventOfCode2025)**
+  **[2020](https://github.com/carozziandrea/AdventOfCode2020)**, **[2021](https://github.com/carozziandrea/AdventOfCode2021)**, **[2022](https://github.com/carozziandrea/AdventOfCode2022)**, **[2023](https://github.com/carozziandrea/AdventOfCode2023)**, **[2024](https://github.com/carozziandrea/AdventOfCode2024)**, **[2025](https://github.com/carozziandrea/AdventOfCode2025)**.
 
 ---
 
